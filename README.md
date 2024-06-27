@@ -7,4 +7,4 @@ Feel free to explore my repositories and see what I've been working on. Let's co
 ---
 🎒 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,vscode,github)](https://skillicons.dev)
