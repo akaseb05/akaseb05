@@ -4,6 +4,10 @@ Hi I'm Ahmad Kaseb, a dedicated Computer Science major with a minor in Mathemati
 
 Feel free to explore my repositories and see what I've been working on. Let's connect and collaborate on projects! https://www.linkedin.com/in/Ahmad-Kaseb
 
+🛡️ Licenses & Certifications
+-
+https://www.credly.com/badges/dc61a826-cc92-45d5-a97b-2850ad8878d7/public_url
+
 🎒 Languages and Tools
 --
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,vscode,github)](https://skillicons.dev)
