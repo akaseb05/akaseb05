@@ -6,7 +6,7 @@ Feel free to explore my repositories and see what I've been working on. Let's co
 
 🛡️ Licenses & Certifications
 -
-https://www.credly.com/badges/dc61a826-cc92-45d5-a97b-2850ad8878d7/public_url
+[🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)
 
 🎒 Languages and Tools
 --
