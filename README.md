@@ -7,6 +7,7 @@ Feel free to explore my repositories and see what I've been working on. Let's co
 🛡️ Licenses & Certifications
 -
 [🏅](https://www.credly.com/badges/dc61a826-cc92-45d5-a97b-2850ad8878d7/public_url) - [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) by Cisco Networking Academy
+[🏅](https://www.credly.com/earner/earned/badge/7ec143ba-e5c9-4d0d-91b6-40966aa776ac) - [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) by Cisco Networking Academy
 
 🎒 Languages and Tools
 --
