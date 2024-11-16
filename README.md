@@ -10,6 +10,8 @@ Feel free to explore my repositories and see what I've been working on. Let's co
 
 [🏅](https://www.credly.com/earner/earned/badge/7ec143ba-e5c9-4d0d-91b6-40966aa776ac) - [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) by Cisco Networking Academy
 
+[🏅](https://www.credly.com/badges/603bc7eb-7644-48de-9e85-b8a3d4995764) - [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity-essentials) by Cisco Networking Academy
+
 🎒 Languages and Tools
 --
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,vscode,github)](https://skillicons.dev)
