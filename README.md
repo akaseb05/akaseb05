@@ -6,6 +6,8 @@ Feel free to explore my repositories and see what I've been working on. Let's co
 
 🛡️ Licenses & Certifications
 -
+[🏅](https://drive.google.com/file/d/1EbMSnvLs7fka5z-W89G_AacFas9xJO1-/view?usp=sharing) - [CYB102: Intermediate](https://www.codepath.org/courses/cybersecurity) by Codepath
+
 [🏅](https://drive.google.com/file/d/1yHovY8j8wXrrVF71HLgKmUt4FfgiASJp/view?usp=sharing) - [CYB 101: Intro to Cybersecurity](https://www.codepath.org/courses/cybersecurity) by Codepath
 
 [🏅](https://www.credly.com/badges/dc61a826-cc92-45d5-a97b-2850ad8878d7/public_url) - [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) by Cisco Networking Academy
